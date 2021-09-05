@@ -1,0 +1,14 @@
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\bin\Release\netcoreapp2.1\win-x64\hostpolicy.dll
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\bin\Release\netcoreapp2.1\win-x64\hostfxr.dll
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\bin\Release\netcoreapp2.1\win-x64\AutobahnRacingServer.exe
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\bin\Release\netcoreapp2.1\win-x64\AutobahnRacingServer.deps.json
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\bin\Release\netcoreapp2.1\win-x64\AutobahnRacingServer.runtimeconfig.json
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\bin\Release\netcoreapp2.1\win-x64\AutobahnRacingServer.runtimeconfig.dev.json
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\bin\Release\netcoreapp2.1\win-x64\AutobahnRacingServer.dll
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\bin\Release\netcoreapp2.1\win-x64\AutobahnRacingServer.pdb
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\obj\Release\netcoreapp2.1\win-x64\AutobahnRacingServer.csprojAssemblyReference.cache
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\obj\Release\netcoreapp2.1\win-x64\AutobahnRacingServer.csproj.CoreCompileInputs.cache
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\obj\Release\netcoreapp2.1\win-x64\AutobahnRacingServer.AssemblyInfoInputs.cache
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\obj\Release\netcoreapp2.1\win-x64\AutobahnRacingServer.AssemblyInfo.cs
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\obj\Release\netcoreapp2.1\win-x64\AutobahnRacingServer.dll
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\obj\Release\netcoreapp2.1\win-x64\AutobahnRacingServer.pdb

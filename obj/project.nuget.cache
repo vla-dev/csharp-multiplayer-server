@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "PdiPT11eq4vBYXIdk2K1jscmBGa6UxRdacQNp4DwabpWBOr1lyNQcWP00kyMvvkdsDLuxkQWAQItwL4SL138rA==",
+  "success": true,
+  "projectFilePath": "D:\\Unity Projects\\Autobahn Racing\\Server\\AutobahnRacingServer\\AutobahnRacingServer\\AutobahnRacingServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.1.0\\microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.1.0\\microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.0\\microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\microsoft.netcore.targets\\2.1.0\\microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\vlady\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

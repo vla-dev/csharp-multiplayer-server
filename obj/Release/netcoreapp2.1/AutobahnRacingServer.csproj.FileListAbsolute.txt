@@ -1,0 +1,11 @@
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\obj\Release\netcoreapp2.1\AutobahnRacingServer.csprojAssemblyReference.cache
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\obj\Release\netcoreapp2.1\AutobahnRacingServer.csproj.CoreCompileInputs.cache
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\obj\Release\netcoreapp2.1\AutobahnRacingServer.AssemblyInfoInputs.cache
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\obj\Release\netcoreapp2.1\AutobahnRacingServer.AssemblyInfo.cs
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\bin\Release\netcoreapp2.1\AutobahnRacingServer.deps.json
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\bin\Release\netcoreapp2.1\AutobahnRacingServer.runtimeconfig.json
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\bin\Release\netcoreapp2.1\AutobahnRacingServer.runtimeconfig.dev.json
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\bin\Release\netcoreapp2.1\AutobahnRacingServer.dll
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\bin\Release\netcoreapp2.1\AutobahnRacingServer.pdb
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\obj\Release\netcoreapp2.1\AutobahnRacingServer.dll
+D:\Unity Projects\Autobahn Racing\Server\AutobahnRacingServer\AutobahnRacingServer\obj\Release\netcoreapp2.1\AutobahnRacingServer.pdb
